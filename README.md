@@ -3,6 +3,13 @@
   <img src="./assets/header.png" alt="Mohammad Moein Latifi | Frontend Developer" width="100%"/>
 </p>
 
+<!-- Language switcher: opens the Persian README file -->
+<p align="center">
+  <a href="./README_FA.md">
+    <img src="https://img.shields.io/badge/-View%20Persian-7F3FBF?style=for-the-badge&logo=google" alt="View Persian README"/>
+  </a>
+</p>
+
 ---
 
 # 👋 Hi, I'm Mohammad Moein Latifi  
@@ -61,9 +68,7 @@
 
 - 🧹 Clean Code Advocate  
 - ⚡ Performance Optimization First  
-- 🔄 Agile & Continuous Improvement  
-- 🌍 Open Source Contributor  
-
+- 🔄 Agile & Continuous Improvement
 ---
 
 ## 📊 GitHub Stats  
@@ -97,12 +102,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <b>⭐ Let's build something amazing together ⭐</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Personal_Brand-Sir.Moein-8A2BE2?style=flat-square&logo=firefox&logoColor=white"/>
-</p>
