@@ -84,15 +84,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohammad-moein-latifi&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
----
-
-## 🌱 Contributions  
-<p align="center">
-  <img src="https://ghchart.rshah.org/8A2BE2/mohammad-moein-latifi" alt="GitHub Contribution Chart" />
-</p>
-
----
-
 ## 📫 Contact Me  
 <p align="center">
   <a href="mailto:mohammad.moein.latifi@gmail.com">
