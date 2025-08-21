@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Mohammad Moein Latifi  
 
-💻 **Senior Frontend Developer | React & Next.js Enthusiast**  
+💻 **Junior Frontend Developer | React & Next.js Enthusiast**  
 🎯 Crafting **scalable, performant, and user-focused web applications**  
 📍 Based in Iran | 🌍 Open to global opportunities  
 
