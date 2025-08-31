@@ -49,17 +49,17 @@
 </p>
 
 ---
-<!-- ## 🚀 پروژه های برجسته  
+ ## 🚀 پروژه های برجسته  
 
 <p align="center">
-  <a href="https://github.com/mohammad-moein-latifi/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-moein-latifi&repo=project-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/mohammad-moein-latifi/Moein-Coffee" target="_blank">
+    ☕ <strong>فروشگاه اینترنتی Moein Coffee — ساخته‌شده با Next.js 15
+    <br><br>
+    <img src="https://raw.githubusercontent.com/mohammad-moein-latifi/Moein-Coffee/master/screenshots/001-Home-page.png" width="400" alt="Moein Coffee Home Page"/>
   </a>
 </p>
 
-
-
---- -->
+---
 ## 📖 فلسفه کاری
 > *«کد باید تمیز، مقیاس‌پذیر و قابل نگهداری باشد — با تمرکز بر عملکرد و تجربهٔ کاربری.»*
 
