@@ -6,7 +6,7 @@
 <!-- Language switcher: opens the Persian README file -->
 <p align="center">
   <a href="./README_FA.md">
-    <img src="https://badgen.net/badge/-/🔠%20مشاهده%20نسخه%20فارسی/purple?label=&scale=1.5"/>
+    <img src="https://badgen.net/badge/-/🔠%20مشاهده%20نسخه%20فارسی/purple?label=&scale=1.5" alt="مشاهده نسخه فارسی"/>
   </a>
 </p>
 
