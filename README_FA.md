@@ -6,7 +6,7 @@
 <!-- Language switcher: opens the English README file -->
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/-View%20English%20Version-7F3FBF?style=for-the-badge&logo=google" alt="View English README"/>
+    <img src="https://badgen.net/badge/-/🔠%20View%20English%20Version/purple?label=&scale=1.5" alt="View English README"/>
   </a>
 </p>
 
