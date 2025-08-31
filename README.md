@@ -6,7 +6,7 @@
 <!-- Language switcher: opens the Persian README file -->
 <p align="center">
   <a href="./README_FA.md">
-    <img src="https://img.shields.io/badge/-View%20Persian%20Version-7F3FBF?style=for-the-badge&logo=google" alt="View Persian README"/>
+    <img src="https://badgen.net/badge/-/🔠%20مشاهده%20نسخه%20فارسی/purple?label=&scale=1.5"/>
   </a>
 </p>
 
